@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h4 font-weight="bold">Welcome To My Developer World!</h4>
+  <h3>Welcome To My Developer World!</h3>
   <img src="https://komarev.com/ghpvc/?username=proloypaul&style=flat-square&color=blue" width="100"/>
 </div>
 
@@ -20,7 +20,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-Here are some ideas to get you started:
+
+### :man_technologist: About Me:
+
+I am professional Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - 🔭 I’m currently working on Algorithm 
 - 🌱 I’m currently learning programming
@@ -30,3 +33,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/RJCHOp6EBRLHO/giphy.gif" width="30">
+  <h3>Git Activeness</h3>
+</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=proloypaul&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proloypaul&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
