@@ -26,19 +26,22 @@ I am professional Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 <div>
 
-  <img src="https://img.shields.io/badge/Javascript-brightgreen?style=for-the-badge&logo=Javascript&logoColor=white" alt="Empty!" width="100" height="25"/>
-  <img src="https://img.shields.io/badge/React-brightgreen?style=for-the-badge&logo=React&logoColor=white" alt="Empty!" width="100" height="25"/>
-
-
-  <img src="https://img.shields.io/badge/Javascript-brightgreen?style=for-the-badge&logo=Javascript&logoColor=white" alt="Empty!" width="100" height="25"/>
-
-  <img src="https://img.shields.io/badge/Javascript-brightgreen?style=for-the-badge&logo=Javascript&logoColor=white" alt="Empty!" width="100" height="25"/>
-
-  <img src="https://img.shields.io/badge/Javascript-brightgreen?style=for-the-badge&logo=Javascript&logoColor=white" alt="Empty!" width="100" height="25"/>
-
-  <img src="https://img.shields.io/badge/Javascript-brightgreen?style=for-the-badge&logo=Javascript&logoColor=white" alt="Empty!" width="100" height="25"/>
-
-  <img src="https://img.shields.io/badge/Javascript-brightgreen?style=for-the-badge&logo=Javascript&logoColor=white" alt="Empty!" width="100" height="25"/>
+  <img src="https://img.shields.io/badge/Javascript-brightgreen?style=for-the-badge&logo=Javascript&logoColor=white" alt="Empty!"/>
+  <img src="https://img.shields.io/badge/React-brightgreen?style=for-the-badge&logo=React&logoColor=white" alt="Empty!" />
+  <img src="https://img.shields.io/badge/React-Tailwind-brightgreen?style=for-the-badge&logo=Tailwinds&logoColor=white" alt="Empty!" />
+  <img src="https://img.shields.io/badge/React-MaterialUi-brightgreen?style=for-the-badge&logo=MaterialUi&logoColor=white" alt="Empty!" />
+  <img src="https://img.shields.io/badge/Css-brightgreen?style=for-the-badge&logo=Css&logoColor=white" alt="Empty!"/>
+  <img src="https://img.shields.io/badge/Html-brightgreen?style=for-the-badge&logo=Html&logoColor=white" alt="Empty!"/>
+  <img src="https://img.shields.io/badge/ReactNative-brightgreen?style=for-the-badge&logo=ReactNative&logoColor=white" alt="Empty!"/>
+  
+  <img src="https://img.shields.io/badge/Node-Express-brightgreen?style=for-the-badge&logo=Express&logoColor=white" alt="Empty!"/>
+  <img src="https://img.shields.io/badge/Mongodb-brightgreen?style=for-the-badge&logo=Mongodb&logoColor=white" alt="Empty!"/>
+  <img src="https://img.shields.io/badge/ReactNative-brightgreen?style=for-the-badge&logo=ReactNative&logoColor=white" alt="Empty!"/>
+  <img src="https://img.shields.io/badge/ReactNative-brightgreen?style=for-the-badge&logo=ReactNative&logoColor=white" alt="Empty!"/>
+  <img src="https://img.shields.io/badge/ReactNative-brightgreen?style=for-the-badge&logo=ReactNative&logoColor=white" alt="Empty!"/>
+  <img src="https://img.shields.io/badge/ReactNative-brightgreen?style=for-the-badge&logo=ReactNative&logoColor=white" alt="Empty!"/>
+  <img src="https://img.shields.io/badge/ReactNative-brightgreen?style=for-the-badge&logo=ReactNative&logoColor=white" alt="Empty!"/>
+  
 </div>
 
 
@@ -46,6 +49,7 @@ I am professional Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://media.giphy.com/media/RJCHOp6EBRLHO/giphy.gif" width="30">
   <h3>Git Activeness</h3>
 </div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=proloypaul&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proloypaul&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
