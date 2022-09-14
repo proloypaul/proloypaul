@@ -45,7 +45,7 @@ I am professional Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://img.shields.io/badge/VsCode-brightgreen?style=for-the-badge&logo=VsCode&logoColor=white" alt="Empty!"/>
   
 </div>
-
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/RJCHOp6EBRLHO/giphy.gif" width="30">
@@ -57,13 +57,13 @@ I am professional Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proloypaul&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/utsha-kumar-paul/">
+  <a href="https://www.linkedin.com/in/utsha-kumar-paul/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="proloyp23@gmail.com">
+  <a href="proloyp23@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/proloyp23@gmail.com-red?style=for-the-badge&logo=Email&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://utshapaul-23.vercel.app/">
+  <a href="https://utshapaul-23.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="GoogleChrome Badge"/>
   </a>
 </div>
