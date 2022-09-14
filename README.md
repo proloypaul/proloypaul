@@ -25,14 +25,13 @@
 
 I am professional Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- 🔭 I’m currently working on Algorithm 
-- 🌱 I’m currently learning programming
-- 👯 I’m looking to collaborate on github
-- 🤔 I’m looking for help with Developer
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+- 😊 I will be delightful if you call me in your project and I believe in the unity strength
+- 🔭 At present, I'm working on Algorithm
+- 🌱 I’m currently learning Problem solving, Javascript(OOP), Remix, React Native
+- 👯 I’m looking to collaborate with web developer
+- 📫 Know me more <a href="https://utshapaul-23.vercel.app/">Portfolio</a> 
+- 💬 Ask me anything friendly, i will definitely answer
+- 📫 Reach me: <a>proloyp23@gmail.com</a>
 
 <div align="center">
   <img src="https://media.giphy.com/media/RJCHOp6EBRLHO/giphy.gif" width="30">
