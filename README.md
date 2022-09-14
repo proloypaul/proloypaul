@@ -28,19 +28,21 @@ I am professional Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
   <img src="https://img.shields.io/badge/Javascript-brightgreen?style=for-the-badge&logo=Javascript&logoColor=white" alt="Empty!"/>
   <img src="https://img.shields.io/badge/React-brightgreen?style=for-the-badge&logo=React&logoColor=white" alt="Empty!" />
+   <img src="https://img.shields.io/badge/CSS-brightgreen?style=for-the-badge&logo=Css&logoColor=white" alt="Empty!"/>
+  <img src="https://img.shields.io/badge/HTML-brightgreen?style=for-the-badge&logo=Html&logoColor=white" alt="Empty!"/>
   <img src="https://img.shields.io/badge/React-Tailwind-brightgreen?style=for-the-badge&logo=Tailwinds&logoColor=white" alt="Empty!" />
   <img src="https://img.shields.io/badge/React-MaterialUi-brightgreen?style=for-the-badge&logo=MaterialUi&logoColor=white" alt="Empty!" />
-  <img src="https://img.shields.io/badge/Css-brightgreen?style=for-the-badge&logo=Css&logoColor=white" alt="Empty!"/>
-  <img src="https://img.shields.io/badge/Html-brightgreen?style=for-the-badge&logo=Html&logoColor=white" alt="Empty!"/>
+  <img src="https://img.shields.io/badge/Bootstrap-brightgreen?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Empty!"/>
   <img src="https://img.shields.io/badge/ReactNative-brightgreen?style=for-the-badge&logo=ReactNative&logoColor=white" alt="Empty!"/>
-  
   <img src="https://img.shields.io/badge/Node-Express-brightgreen?style=for-the-badge&logo=Express&logoColor=white" alt="Empty!"/>
   <img src="https://img.shields.io/badge/Mongodb-brightgreen?style=for-the-badge&logo=Mongodb&logoColor=white" alt="Empty!"/>
-  <img src="https://img.shields.io/badge/ReactNative-brightgreen?style=for-the-badge&logo=ReactNative&logoColor=white" alt="Empty!"/>
-  <img src="https://img.shields.io/badge/ReactNative-brightgreen?style=for-the-badge&logo=ReactNative&logoColor=white" alt="Empty!"/>
-  <img src="https://img.shields.io/badge/ReactNative-brightgreen?style=for-the-badge&logo=ReactNative&logoColor=white" alt="Empty!"/>
-  <img src="https://img.shields.io/badge/ReactNative-brightgreen?style=for-the-badge&logo=ReactNative&logoColor=white" alt="Empty!"/>
-  <img src="https://img.shields.io/badge/ReactNative-brightgreen?style=for-the-badge&logo=ReactNative&logoColor=white" alt="Empty!"/>
+  <img src="https://img.shields.io/badge/Firebase-brightgreen?style=for-the-badge&logo=Firebase&logoColor=white" alt="Empty!"/>
+  <img src="https://img.shields.io/badge/Heroku-brightgreen?style=for-the-badge&logo=Heroku&logoColor=white" alt="Empty!"/>
+  <img src="https://img.shields.io/badge/Git-brightgreen?style=for-the-badge&logo=Git&logoColor=white" alt="Empty!"/>
+  <img src="https://img.shields.io/badge/Github-brightgreen?style=for-the-badge&logo=Github&logoColor=white" alt="Empty!"/>
+  <img src="https://img.shields.io/badge/Vercel-brightgreen?style=for-the-badge&logo=Vercel&logoColor=white" alt="Empty!"/>
+  <img src="https://img.shields.io/badge/Netlify-brightgreen?style=for-the-badge&logo=Netlify&logoColor=white" alt="Empty!"/>
+  <img src="https://img.shields.io/badge/VsCode-brightgreen?style=for-the-badge&logo=VsCode&logoColor=white" alt="Empty!"/>
   
 </div>
 
