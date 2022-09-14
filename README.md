@@ -13,7 +13,7 @@
 
 I am professional Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- 😊 I will be delightful if you call me in your project and I believe in the unity strength
+- 😊 I'll be delightful if you call me in your project and I believe in the unity strength
 - 🔭 At present, I'm working on Algorithm
 - 🌱 I’m currently learning Problem solving, Javascript(OOP), Remix, React Native
 - 👯 I’m looking to collaborate with web developer
@@ -55,6 +55,9 @@ I am professional Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=proloypaul&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proloypaul&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=proloypaul&theme=cobalt)](https://git.io/streak-stats)
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/utsha-kumar-paul/" target="_blank">
