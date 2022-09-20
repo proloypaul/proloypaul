@@ -3,8 +3,10 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200" height="200"/>
   <h2>Hi👋, I'm Utsha Paul</h2> 
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=proloypaul&style=flat-square&color=blue" width="150"/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=proloypaul&style=flat-square&color=blue" width="150"/>
 <div align="center">
   <h2>WELCOME TO MY VISIONAEY GALLERY!</h3>
 </div>
