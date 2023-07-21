@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <h2>WELCOME TO MY VISIONAEY GALLERY!</h3>
+  <h2>WELCOME TO MY VISIONARY GALLERY!</h3>
 </div>
 
 ### :man_technologist: About Me:
